@@ -77,5 +77,4 @@ Follow these instructions to get the project up and running on your local machin
     ```sh
     java OOPSConcepts.OOPSConcepts
     ```
-
-Happy Coding!
+Keep learning and building
